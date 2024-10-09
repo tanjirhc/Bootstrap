@@ -11,3 +11,14 @@ Extra Extra Large
   height: 100px;
   margin-bottom: 20px;
 } */
+.row{
+  margin-bottom: 20px;
+}
+
+.row div div{
+  background: #7ed6df;
+  border: 5px solid #22a6b3;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
