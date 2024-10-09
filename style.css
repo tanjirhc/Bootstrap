@@ -7,7 +7,7 @@ Extra Extra Large
 */
 
 .child{
-  border: 5px solid var(--bs-yellow);
+  border: 5px solid var(--bs-blue);
   height: 100px;
   margin-bottom: 10px;
   text-align: center;
