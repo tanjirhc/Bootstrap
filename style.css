@@ -22,3 +22,11 @@ Extra Extra Large
   text-align: center;
   margin-bottom: 20px;
 }
+
+.row .row div div{
+  background: #f1c40f;
+  border: 5px solid #f39c12;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
